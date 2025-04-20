@@ -1,47 +1,54 @@
 ---
 sidebar_position: 1
+title: Intro
 ---
 
-# Tutorial Intro
+# Proofss Intro
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Proofss is focused on the **innovation of PoS ecosystem**.
 
-## Getting Started
+## What is PoS
 
-Get started by **creating a new site**.
+Proof of Stake (PoS) is a consensus mechanism used in cryptocurrencies to validate transactions and secure the network. Instead of using energy-intensive mining like Proof of Work (PoW), PoS relies on validators who lock up (or "stake") their coins as collateral to be chosen to validate new transactions.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+### Benefits of PoS
 
-### What you'll need
+- ✅ Energy-efficient – No need for high-power mining hardware.
+- ✅ More decentralized – Reduces centralization risks since anyone with coins can participate.
+- ✅ Scalability – Allows for faster transactions and lower fees.
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+Popular PoS-based cryptocurrencies include Ethereum (ETH), Cardano (ADA), and Solana (SOL).
 
-## Generate a new site
+## Who is Proofss
 
-Generate a new Docusaurus site using the **classic template**.
+We are a team dedicated to innovation in the PoS ecosystem. We believe PoS is the future of blockchain, and more and more projects will adopt the PoS consensus mechanism in the future.  
 
-The classic template will automatically be added to your project after you run the command:
+We are committed to providing infrastructure and services for the PoS ecosystem. Through technological innovation and community collaboration, we aim to drive the growth of the PoS ecosystem.
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+## What We Build
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+### Education of PoS
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+We are dedicated to the promotion and education of PoS (Proof of Stake) knowledge:
 
-## Start your site
+- **Basic Knowledge Dissemination**: Explaining the fundamental principles of PoS, its consensus mechanism, and comparisons with PoW (Proof of Work).  
+- **Technical Tutorials**: How to set up a PoS node, the role of validators, and methods of staking.  
+- **Security and Risks**: Potential attack vectors under the PoS mechanism (such as long-range attacks and Sybil attacks) and corresponding countermeasures.  
+- **Ecosystem Development**: The current state of the PoS ecosystem, future trends, and how to get involved.
 
-Run the development server:
+### Stake as a Service
 
-```bash
-cd my-website
-npm run start
-```
+We offer a variety of services related to PoS staking:
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
+1. Setting up network nodes  
+2. Guiding individuals or institutions on how to stake  
+3. Building PoS staking pools or LSD (Liquid Staking Derivatives) protocols  
+4. Technical consulting on PoS  
 
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
+### LSD Protocol
 
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+We build PoS LSD (Liquid Staking Derivatives) protocols on major blockchain networks such as Ethereum, Polygon, and Conflux to make staking more accessible for everyday users.
+
+### PoS Hub
+
+[PoS Hub](./PoS-hub.md) is an aggregated platform for the PoS ecosystem. It provides access to PoS staking pools and LSD protocols across multiple networks, allowing users to stake in one place and conveniently view their staking rewards across different blockchains.
