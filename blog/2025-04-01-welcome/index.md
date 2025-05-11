@@ -23,4 +23,4 @@ We believe that PoS (Proof of Stake) will be the future of blockchain. We are co
 
 ## First Product: PoSHub
 
-We are excited to announce our first product, [PoSHub](/docs/PoS-hub.md), which is a comprehensive platform for PoS. PoSHub will provide users with a one-stop solution for all their PoS needs, including staking, liquid staking, and access to various PoS pools.
+We are excited to announce our first product, [PoSHub](/PoS-hub), which is a comprehensive platform for PoS. PoSHub will provide users with a one-stop solution for all their PoS needs, including staking, liquid staking, and access to various PoS pools.
